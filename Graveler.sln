@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graveler", "Graveler.csproj", "{BF4CC609-0760-4016-863E-571725FA3ACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4CC609-0760-4016-863E-571725FA3ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4CC609-0760-4016-863E-571725FA3ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4CC609-0760-4016-863E-571725FA3ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4CC609-0760-4016-863E-571725FA3ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5EB2681-8086-476C-89B9-AB4DEC8AE87B}
+	EndGlobalSection
+EndGlobal
